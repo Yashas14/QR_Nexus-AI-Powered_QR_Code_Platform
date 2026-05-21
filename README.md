@@ -30,7 +30,7 @@
 7. [API Reference](#-api-reference)
 8. [Deploying to Vercel](#-deploying-to-vercel)
 9. [How It Works](#-how-it-works)
-10. [Screenshots](#-screenshots)
+10. [Snapshots](#-snapshots)
 
 ---
 
