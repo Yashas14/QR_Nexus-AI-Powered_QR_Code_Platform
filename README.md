@@ -473,6 +473,24 @@ All history is stored in the browser's `localStorage` under the key `qr_nexus_hi
 
 ---
 
+##  Snapshots
+
+<img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/113f5807-425d-4c4f-8e33-3ab9d0be3130" />
+
+--
+<img width="1590" height="886" alt="image" src="https://github.com/user-attachments/assets/4a90290c-4f18-433b-91ef-5d986dad3209" />
+
+--
+
+<img width="1887" height="885" alt="image" src="https://github.com/user-attachments/assets/6e53e52a-8fd7-4c31-8eb6-b5bd4289140c" />
+
+--
+
+<img width="1883" height="901" alt="image" src="https://github.com/user-attachments/assets/99161a75-870c-46cd-8e4a-24a7562d5957" />
+
+
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository
