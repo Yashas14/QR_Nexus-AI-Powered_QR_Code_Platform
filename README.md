@@ -473,7 +473,7 @@ All history is stored in the browser's `localStorage` under the key `qr_nexus_hi
 
 ---
 
-##  Snapshots
+## Snapshots
 
 <img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/113f5807-425d-4c4f-8e33-3ab9d0be3130" />
 
