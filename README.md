@@ -510,3 +510,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 Built with Next.js & OpenAI by <strong>Yashas D</strong>
 </div>
+
+## 🤝 Connect With Me
+
+**👨‍💻 Yashas D**  
+🔗 [LinkedIn](https://www.linkedin.com/in/yashasd2004/)  
+📬 [GitHub](https://github.com/Yashas14)  
+
+> ⭐ If you found this project insightful or helpful, don’t forget to **star ⭐ the repo**, **raise issues**, or contribute! Let’s build impactful solutions together.
